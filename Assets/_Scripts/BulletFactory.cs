@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿// BulletFactory.cs
+// Student Name: Bohan Cheng
+// Student #: 101130599
+// Last Modified: 2020/10/20
+// Description: This script contains all type of bullets and handle spawns
+// History: None
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

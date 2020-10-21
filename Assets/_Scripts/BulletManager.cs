@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿// BulletManager.cs
+// Student Name: Bohan Cheng
+// Student #: 101130599
+// Last Modified: 2020/10/20
+// Description: This script manages all bullets fired and optimizing using object pool
+// History: None
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

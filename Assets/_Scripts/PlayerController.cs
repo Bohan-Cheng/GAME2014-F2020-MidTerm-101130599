@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿// PlayerController.cs
+// Student Name: Bohan Cheng
+// Student #: 101130599
+// Last Modified: 2020/10/20
+// Description: This script handles player movement and bullet firing and also player bound check
+// History: Changed player movement to vertical movement and also check the bound vertically
+
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEditor;

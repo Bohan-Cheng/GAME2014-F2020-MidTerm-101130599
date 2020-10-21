@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿// BulletController.cs
+// Student Name: Bohan Cheng
+// Student #: 101130599
+// Last Modified: 2020/10/20
+// Description: This script controls the bullet movement and recycle
+// History: Changed from vertical to horzontal movement
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
